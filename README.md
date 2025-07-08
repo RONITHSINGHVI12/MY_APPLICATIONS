@@ -1,4 +1,4 @@
-# 🧠 RONI's Web App Collection
+# 🧠 RONITH SINGHVI's Web App Collection
 
 Welcome to my collection of web-based applications! Each project is designed to solve a specific real-world problem or provide an engaging interactive experience. Whether you're here to play a game, manage your fitness, generate invoices, solve Sudoku, or chat with AI — this repo showcases it all.
 
