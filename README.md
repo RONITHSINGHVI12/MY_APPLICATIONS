@@ -19,7 +19,7 @@ Welcome to my collection of web-based applications! Each project is designed to 
 ## 🚀 Features Across Projects
 
 - 🔐 Authentication & User Sessions  
-- 💬 AI Integration (Gemini + ChatGPT)  
+- 💬 AI Integration (Gemini + ChatGPT + Deepseek)  
 - 💾 Chat & Game History Persistence  
 - 🎮 Game Win Conditions & Dynamic Levels  
 - 📱 Mobile Responsive Design  
