@@ -13,3 +13,18 @@ Welcome to my collection of web-based applications! Each project is designed to 
 | 📄 **Invoice Generator** | Create and manage invoices quickly with export options and real-time updates.                        | [Generate](https://invoice-roni.lovable.app/)                       |
 | 🧩 **Sudoku Time** | A sleek Sudoku game with hints, timer, difficulty modes, and mobile-friendly layout.                        | [Solve](https://sudoku-time.lovable.app/)                           |
 | 🤖 **Roni_AI**     | An AI assistant powered by ChatGPT & Gemini APIs with chat history, tabs, and user profiles.                | [Chat Now](https://jovial-fudge-6f0295.netlify.app/)                |
+
+---
+
+## 🚀 Features Across Projects
+
+- 🔐 Authentication & User Sessions  
+- 💬 AI Integration (Gemini + ChatGPT)  
+- 💾 Chat & Game History Persistence  
+- 🎮 Game Win Conditions & Dynamic Levels  
+- 📱 Mobile Responsive Design  
+- 🧠 Smart Input Validation & Error Handling  
+- 📊 Dashboards, Timer Logic, and Scoring Systems  
+- 🎨 Dark/Light Theme Toggle (selected apps)
+
+---
