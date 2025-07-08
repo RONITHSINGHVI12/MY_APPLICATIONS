@@ -8,7 +8,7 @@ Welcome to my collection of web-based applications! Each project is designed to 
 
 | Name        | Description                                                 | Link                                                                 |
 |-------------|-------------------------------------------------------------|----------------------------------------------------------------------|
-| 🎮 **2048 Game**   | A classic 2048 puzzle game with enhanced logic, level switching, win alerts, and polished UI.              | [Play Now](https://2048.game.app/)                                  |
+| 🎮 **2048 Game**   | A classic 2048 puzzle game with enhanced logic, level switching, win alerts, and polished UI.              | [Play Now]([https://2048.game.app/](https://2048-game-ronisinghvis.on.drv.tw/www.2048game.com/2048_game.html))                                  |
 | 🏋️ **FitTrack**    | A modern fitness and activity tracker app with login/authentication and clean dashboard UI.                | [Try It](https://fit-track-roni.lovable.app/auth)                   |
 | 📄 **Invoice Generator** | Create and manage invoices quickly with export options and real-time updates.                        | [Generate](https://invoice-roni.lovable.app/)                       |
 | 🧩 **Sudoku Time** | A sleek Sudoku game with hints, timer, difficulty modes, and mobile-friendly layout.                        | [Solve](https://sudoku-time.lovable.app/)                           |
