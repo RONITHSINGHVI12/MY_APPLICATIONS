@@ -14,6 +14,7 @@ Welcome to my collection of web-based applications! Each project is designed to 
 | 🧩 **Sudoku Time** | A sleek Sudoku game with hints, timer, difficulty modes, and mobile-friendly layout.                        | [Solve](https://sudoku-time.lovable.app/)                           |
 | 🤖 **Roni_AI**     | An AI assistant powered by ChatGPT & Gemini APIs with chat history, tabs, and user profiles.                | [Chat Now](https://jovial-fudge-6f0295.netlify.app/)                |
 🧮 **Calculator App**     | A simple, modern calculator built with clean UI and responsive design.                            | [Calculate](https://classy-lollipop-08dec4.netlify.app/)
+| 🐤 **Flappy Bird Game**   | A remake of the popular Flappy Bird game with smooth animation, sound effects, and keyboard input. | [Fly Now](https://zingy-marigold-f38204.netlify.app/)               |
 
 ---
 
