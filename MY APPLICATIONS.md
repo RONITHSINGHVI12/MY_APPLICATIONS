@@ -3,4 +3,3 @@
 3. ### **INVOICE -** [https://invoice-roni.lovable.app/](https://invoice-roni.lovable.app/)
 4. ### **SUDOKU -** [https://sudoku-time.lovable.app/](https://sudoku-time.lovable.app/)
 5. ### **RONI\_AI -** [https://jovial-fudge-6f0295.netlify.app/](https://jovial-fudge-6f0295.netlify.app/)
-6.### **Calculator -** [[https://jovial-fudge-6f0295.netlify.app/](https://classy-lollipop-08dec4.netlify.app/)
