@@ -15,7 +15,8 @@ Welcome to my collection of web-based applications! Each project is designed to 
 | 🤖 **Roni_AI**     | An AI assistant powered by ChatGPT & Gemini APIs with chat history, tabs, and user profiles.                | [Chat Now](https://jovial-fudge-6f0295.netlify.app/)                |
 🧮 **Calculator App**     | A simple, modern calculator built with clean UI and responsive design.                            | [Calculate](https://classy-lollipop-08dec4.netlify.app/)
 | 🐤 **Flappy Bird Game**   | A remake of the popular Flappy Bird game with smooth animation, sound effects, and keyboard input. | [Fly Now](https://zingy-marigold-f38204.netlify.app/)               |
-| 🔳 **QR Code Generator**   | Instantly generate QR codes for any text or URL with a clean and responsive interface.             | [Scan It](https://capable-flan-bc8ec6.netlify.app/)
+| 🔳 **QR Code Generator**   | Instantly generate QR codes for any text or URL with a clean and responsive interface.             | [Scan It](https://capable-flan-bc8ec6.netlify.app/).
+| 🍪 **Minecraft Cookie Clicker** | A fun Minecraft-style clicker game where you collect cookies and level up your click power.     | [Click Cookies](https://minecraftcookieclicker.on.drv.tw/www.minecraft_cookie_clicker.com/Minecraft_Cookie_clicker.html) |
 
 ---
 
