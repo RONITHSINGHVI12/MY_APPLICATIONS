@@ -12,7 +12,7 @@ Welcome to my collection of web-based applications! Each project is designed to 
 | 🏋️ **FitTrack**    | A modern fitness and activity tracker app with login/authentication and clean dashboard UI.                | [Try It](https://fit-track-roni.lovable.app/auth)                   |
 | 📄 **Invoice Generator** | Create and manage invoices quickly with export options and real-time updates.                        | [Generate](https://invoice-roni.lovable.app/)                       |
 | 🧩 **Sudoku Time** | A sleek Sudoku game with hints, timer, difficulty modes, and mobile-friendly layout.                        | [Solve](https://sudoku-time.lovable.app/)                           |
-| 🤖 **Roni_AI**     | An AI assistant powered by ChatGPT & Gemini APIs with chat history, tabs, and user profiles.                | [Chat Now](https://jovial-fudge-6f0295.netlify.app/)                |
+| 🤖 **Roni_AI**     | An AI assistant powered by ChatGPT & Gemini APIs with chat history, tabs, and user profiles.                | [Chat Now]((https://roni-ai.lovable.app/))                |
 🧮 **Calculator App**     | A simple, modern calculator built with clean UI and responsive design.                            | [Calculate](https://classy-lollipop-08dec4.netlify.app/)
 | 🐤 **Flappy Bird Game**   | A remake of the popular Flappy Bird game with smooth animation, sound effects, and keyboard input. | [Fly Now](https://zingy-marigold-f38204.netlify.app/)               |
 | 🔳 **QR Code Generator**   | Instantly generate QR codes for any text or URL with a clean and responsive interface.             | [Scan It](https://capable-flan-bc8ec6.netlify.app/).
